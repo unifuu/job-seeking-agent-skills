@@ -1,0 +1,9 @@
+node_modules
+package.json
+bun.lock
+.DS_Store
+
+/about_me
+/companies
+/reports
+/strategies
