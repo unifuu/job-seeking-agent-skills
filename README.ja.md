@@ -1,4 +1,4 @@
-# Job Seeking Skills (Claude Code)
+# Job Seeking Skills
 
 [English](README.md)
 
